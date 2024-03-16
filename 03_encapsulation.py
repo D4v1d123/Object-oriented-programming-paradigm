@@ -1,4 +1,3 @@
-# --------------------------------------------------------------------------------
 # Encapsulation => Allows you hide implementation details of an object (attribute 
 # and method), preventing them from being accessible of insecure or erroneous way.
 # Public and private visibility limit access to attributes and methods in 
