@@ -1,21 +1,22 @@
-# ABSTRACTION => It’s the action of determining the behavior of things in the real life without 
-# thinking in their functioning, this with the goal of converting that behavior 
-# into entities, objects or functions.
+# ABSTRACTION => It’s the action of determining the behavior of things in the real 
+# life without thinking in their functioning, this with the goal of converting that 
+# behavior into entities, objects or functions.
 
 # Example:
 # Problem => Create a basic calculator.
 
 # First step:
-# Think about what a basic calculator is? => It's a device that performs the most common 
-# mathematical operations in everyday life.
+# Think about what a basic calculator is? => It's a device that performs the most
+# common mathematical operations in everyday life.
 
 # Second step: 
-# Determine that operations a basic calculator does  => Addition, subtraction, Multiplication and
-# division.
+# Determine that operations a basic calculator does  => Addition, subtraction, 
+# multiplication and division.
 
 # Third step:
-# Establish how i will make the structure of the program or software => It will have a Calculator
-# class, within it i will create a method for each operation of the calculator.
+# Establish how i will make the structure of the program or software => It will 
+# have a Calculator class, within it i will create a method for each operation of 
+# the calculator.
 
 # Fourth step: 
 # Create the structure of the program without going into detail about how it works.

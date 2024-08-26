@@ -1,4 +1,3 @@
-
 # OBJECT-ORIENTED PROGRAMMING => It's a paradigm that extracts the features and 
 # functionality from the real world through class, objects, attributes and methods.
 
@@ -17,10 +16,11 @@
 # CONSTRUCTOR METHOD => It initializes the attributes of an object. It is named 
 # as __init__.
 
-# DESTRUCTOR METHOD => It automatically deletes an object when it is not is used or had not 
-# dependencies. It is named as __del__.
+# DESTRUCTOR METHOD => It automatically deletes an object when it is not is used 
+# or had not dependencies. It is named as __del__.
 
-# DEL STATEMENT => It delete the object reference, then the Python garbage collector remove it from memory.
+# DEL STATEMENT => It delete the object reference, then the Python garbage collector
+# remove it from memory.
 
 # INSTANTIATE => Create an object.
 class Person:  # Class

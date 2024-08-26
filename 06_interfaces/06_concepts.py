@@ -7,8 +7,8 @@
 # maintainability of the code.    
 
 # Interfaces can be used within an API (Application Programming Interface), thus 
-# providing a defined structure so that different programs and services can communicate
-# with each other in a coherent and predictable way. 
+# providing a defined structure so that different programs and services can 
+# communicate with each other in a coherent and predictable way. 
 
 # ABSTRACT METHOD: It is a method of an abstract class or interface that can have 
 # the function name, parameters and the type of return value (optional) defined, 

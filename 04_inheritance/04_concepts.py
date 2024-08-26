@@ -1,14 +1,15 @@
-# INHERITANCE => It allows code reuse through inheritance all public attributes and
-# methods from a parent class to a child class, this allows you improving the 
+# INHERITANCE => It allows code reuse through inheritance all public attributes 
+# and methods from a parent class to a child class, this allows you improving the 
 # modularity and scalability of the code.
 
-# PARENT CLASS OR SUPER CLASS => It’s the class from which the other classes inherit.
+# PARENT CLASS OR SUPER CLASS => It’s the class from which the other classes 
+# inherit.
 
-# CHILD CLASS => It’s the class that inherits attributes and method from the parent 
-# class. Also, this should never be equals to the parent class.
+# CHILD CLASS => It’s the class that inherits attributes and method from the 
+# parent class. Also, this should never be equals to the parent class.
 
-# Super() => It’s a function that allows the child class to import attributes or the
-# methods code block of a parent class.
+# Super() => It’s a function that allows the child class to import attributes or
+# the methods code block of a parent class.
 
 # SIMPLE INHERITANCE => It’s the action of inheriting characteristics from a single
 # parent class.  
