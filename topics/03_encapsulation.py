@@ -16,6 +16,7 @@
 # @getter_method_name.setter interface (setter) => It’s a decorator function that
 # allows you to modify a private attribute of secure way, avoiding syntax and logic
 # errors. 
+
 class Car:
     fuel_type = "gasoline"  #                                         <-╻ 
     #                                                                   │

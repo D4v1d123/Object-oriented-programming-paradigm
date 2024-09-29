@@ -46,4 +46,4 @@ user_1 = Person("mariana", 3142915739, "marian14@gmail.com", "tunja")
 
 user_1.greeting("Pablo")
 
-del user_1  # DeL statement.
+del user_1  # Del statement.
