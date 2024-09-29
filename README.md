@@ -1,4 +1,4 @@
-<img alt="Functional programming course" src="./img/title.png"></img>
+<img alt="OOP programming course" src="./img/title.png"></img>
 
 This project explains the fundamentals of object oriented programming through concise theory, applied in practical exercises to reinforce the acquired knowledge.
 
@@ -22,7 +22,7 @@ The files and folders in the **topics** directory correspond to the concepts of 
     2. **'example' folder**: Where the concepts discussed are applied.
 
 >[!NOTE] 
-The numbering of each file and folder indicates the suggested order to learn the topics of functional programming.
+The numbering of each file and folder indicates the suggested order to learn the topics of OOP programming.
 
 ## 📚 Usage
 1. Open the file or folder corresponding to the topic you want to study.
